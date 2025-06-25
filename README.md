@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **getting better at coding**
 
-- 🌱 I’m currently learning **Python for AI and Cybersecurity**
+- 🌱 I’m currently learning **Python for AI and Cybersecurity with GRC approach**
 
 - 📫 How to reach me **pandelkwtsas@gmail.com**
 
