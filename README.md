@@ -9,12 +9,12 @@
 
 - 📫 How to reach me **pandelkwtsas@gmail.com**
 
-- ⚡ Fun fact **I cook better than you think :)**
+- ⚡ Fun fact : **I cook better than you think :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/panteliskotsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pantelis kotsas" height="30" width="40" /></a>
-<a href="[https://fb.com/pantelis kotsas](https://www.facebook.com/profile.php?id=100048853928419)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pantelis kotsas" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/profile.php?id=100048853928419]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pantelis kotsas" height="30" width="40" /></a>
 <a href="https://instagram.com/panteliskotsas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panteliskotsas" height="30" width="40" /></a>
 </p>
 
