@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **getting better at coding**
 
-- 🌱 I’m currently learning **Python for AI and Cybersecurity with GRC approach**
+- 🌱 I’m currently learning **UML and compilers**
 
-- 📫 How to reach me **pandelkwtsas@gmail.com**
+- 📫 How to reach me **pandeliskotsas@gmail.com**
 
 - ⚡ Fun fact : **I cook better than you think :)**
 
