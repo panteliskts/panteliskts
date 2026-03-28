@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pandeliskotsas@gmail.com**
 
-- ⚡ Fun fact : **I cook better than you think :)**
+- ⚡ Fun fact : **My friends call me Batman, guess why :)**
 
 <h3>Connect with me:</h3>
 <p>
