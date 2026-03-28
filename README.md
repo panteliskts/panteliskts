@@ -41,7 +41,7 @@
 
 <h3>Notable Projects:</h3>
 
-- 🥉 **HITL Gateway** — AI agent governance middleware on Azure Durable Functions with real-time React dashboard, multi-stage escalation pipeline, and enterprise security (3rd Place, ThinkBiz Hackathon · Microsoft Challenge)
+- 🥉 **HITL Gateway** — AI agent governance middleware on Azure Durable Functions with real-time React dashboard, multi-stage escalation pipeline, and enterprise security (3rd Place, TechBiz Hackathon · Microsoft Challenge)
 - 🔧 **MLFQ Scheduler in xv6-riscv** — Extended xv6 OS kernel with a custom multi-level feedback queue scheduler featuring 4-level priority preemption and anti-starvation boost
 - 🗄️ **Disk-Based B+ Tree File Engine** — B+ tree in C over a 512-byte block file library supporting insert, split, search, and 400+ records
 - 💬 **IPC Multi-Process Messaging System** — Multi-process messaging in C with POSIX shared memory, named semaphores, and non-blocking I/O
