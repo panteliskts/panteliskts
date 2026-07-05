@@ -1,8 +1,24 @@
 # Pantelis Kotsas
 
-Third-year CS & Telecommunications student at NKUA. I build systems where AI decisions are trustworthy enough to act on — agents with audit trails, optimizers with validated metrics, infrastructure that keeps humans in the loop where it matters.
+```python
+class Pantelis:
+    def __init__(self):
+        self.role = "CS & Telecom student @ NKUA"
+        self.currently = "figuring it out on the way"
+        self.hackathons = 5
+        self.podiums = 3
+        self.sleep = "theoretically possible"
 
-Five hackathons. Three podiums.
+    def build(self, idea: str) -> str:
+        if self.feels_ready():
+            return "waiting..."
+        return ship(idea)  # always takes this branch
+
+    def feels_ready(self) -> bool:
+        return False  # has never returned True, probably never will
+```
+
+I build systems where AI decisions are trustworthy enough to act on — agents with audit trails, optimizers with validated metrics, infrastructure that keeps humans in the loop where it matters.
 
 ---
 
