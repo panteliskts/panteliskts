@@ -1,14 +1,56 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack Applications and AI training<br>🌱 I’m currently learning AI Engineneering and Automations<br>⚡ Fun fact: I love hackathons!
+# Pantelis Kotsas
 
+Third-year CS & Telecommunications student at NKUA. I build systems where AI decisions are trustworthy enough to act on — agents with audit trails, optimizers with validated metrics, infrastructure that keeps humans in the loop where it matters.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/panteliskotsas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pantelis-kotsas-46861a299) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeliskotsas@gmail.com) 
+Five hackathons. Three podiums.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Panteliskts&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Panteliskts&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Panteliskts&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## Work
+
+**[ATLAS](https://github.com/galactica-labs/project-atlas)** — Agentic OS for mission-critical physical infrastructure · *2nd place, Panathēnea × Florent VC Hackathon 2026*
+
+Five-agent ensemble (Sentinel, Triton, Hephaestus, Hermes, Mnemos) over a declarative HITL policy gateway on Azure Durable Functions. Live asset graph on Apache AGE/PostgreSQL, MILP technician dispatch via PuLP/CBC, voice-first field workflow on OpenAI Realtime API. Every agent decision written to a tamper-evident audit trail.
+
+---
+
+**LogicVolt** — BESS dispatch optimization for the Greek Day-Ahead Market · *2nd place, Engineering the World by Metlen 2026*
+
+LightGBM quantile ensemble with conformal calibration, dynamic-horizon MPC MILP scheduler, FastAPI/Next.js stack with enterprise security. 87.4% capture vs. perfect foresight. €551k backtested 30-day revenue in leakage-free walk-forward validation.
+
+---
+
+**HITL Gateway** — AI agent governance middleware · *3rd place, ThinkBiz 2026 — Microsoft Azure Challenge*
+
+Multi-tenant governance on Azure Durable Functions with zero-compute wait states, multi-stage SLA escalation across Telegram/Twilio/Resend, real-time React orchestration dashboard. HMAC-SHA256, replay prevention, immutable audit log. 91 passing tests.
+
+---
+
+**[INFORM](https://github.com/panteliskts/makethon-2026-Merge_Conflicts-INFORM)** — Evidence-first invoice intelligence · *Makeathon 2026*
+
+Invoice Q&A that highlights the exact bounding box on the source PDF behind every answer. FastAPI + PyMuPDF semantic chunking, ChromaDB, Gemini-powered RAG with two-pass self-check grounding, PDF.js canvas overlay on the Next.js frontend.
+
+---
+
+**MLFQ Scheduler & B+ Tree Engine** — Systems programming, NKUA 2025
+
+Extended xv6-riscv with a 4-level MLFQ scheduler (timeslice demotion, anti-starvation boost, custom `getpinfo()` syscall). Separately built a disk-based B+ tree in C over a 512-byte block library with correct splitting, rebalancing, and leaf-chain traversal across 400+ records.
+
+---
+
+## Stack
+
+The tools that actually appear in the work above:
+
+`Python` `TypeScript` `C/C++` `FastAPI` `Next.js` `React` `PostgreSQL` `Azure Durable Functions` `Docker` `LightGBM` `PuLP/CBC` `OpenAI API` `ChromaDB`
+
+---
+
+## Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Panteliskts&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Panteliskts&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/pantelis-kotsas-46861a299/) · [pandeliskotsas@gmail.com](mailto:pandeliskotsas@gmail.com)
