@@ -16,7 +16,7 @@ class Pantelis:
         return False  # has never returned True, probably never will
 ```
 
-I build systems where AI decisions are trustworthy enough to act on — agents with audit trails, optimizers with validated metrics, infrastructure that keeps humans in the loop where it matters.
+I build systems where AI decisions are trustworthy enough to act on; agents with audit trails, optimizers with validated metrics, infrastructure that keeps humans in the loop where it matters.
 
 ---
 
