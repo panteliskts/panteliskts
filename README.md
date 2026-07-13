@@ -30,7 +30,7 @@ Agentic OS for mission-critical physical infrastructure. Five-agent ensemble ove
 
 BESS dispatch optimization for the Greek Day-Ahead Market. LightGBM quantile ensemble with conformal calibration, dynamic-horizon MPC MILP scheduler, FastAPI/Next.js stack with enterprise security. 87.4% capture vs. perfect foresight. €551k backtested 30-day revenue in leakage-free walk-forward validation.
 
-**HITL Gateway** &nbsp; *3rd place · ThinkBiz 2026 — Microsoft Azure Challenge*
+**HITL Gateway** &nbsp; *3rd place · ThinkBiz 2026 · Microsoft Azure Challenge*
 
 AI agent governance middleware on Azure Durable Functions. Multi-tenant isolation, multi-stage SLA escalation across Telegram/Twilio/Resend, real-time React orchestration dashboard. HMAC-SHA256, replay prevention, immutable audit log. 91 passing tests.
 
